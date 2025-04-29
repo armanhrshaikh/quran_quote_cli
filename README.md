@@ -4,8 +4,8 @@
 ---
 
 ## **✨ Features**  
-✔️ 1. Manually find contents of the Quran 
-✔️ 2. Automatically run and generate output whenever you open your terminal.
+✔️ 1. Manually find contents of the Quran <br>
+✔️ 2. Automatically run and generate output whenever you open your terminal.<br>
 ---
 
 ## **🔧 Installation**  
