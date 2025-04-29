@@ -1,4 +1,4 @@
-# 📌 quran_quote_cli
+# 📖 quran_quote_cli
 **A simple command-line tool to view Quran content directly from Quran.com on your Linux terminal. Open-source and ready for cross-platform contributions.**
 
 ## **✨ Features**  
